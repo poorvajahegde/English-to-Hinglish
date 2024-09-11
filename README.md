@@ -3,8 +3,8 @@
 This document provides an overview of the code used for fine-tuning a language model for Hinglish translation. The model is fine-tuned on a custom dataset and then used to generate Hinglish translations of English sentences.
 
 # Table of Contents
-1.Code Overview
-2.Key Components
+1.Code Overview  
+2.Key Components 
 3.Future Work
 
 # Code Overview
